@@ -1,0 +1,3 @@
+Name : Kalana Amthuri
+Skills : Python,SQL,Pandas,Numpy,Advance Excel
+Emial: kalpanaamthuri@gmail.com 
